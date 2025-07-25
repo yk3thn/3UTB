@@ -6,6 +6,6 @@ source code has the debugging messagebox instead of actually clicking, the non t
 KEY: test
 
 this is probably 80% pasted considering the code is so organized
-if you improve this please share it with messagebox
+if you improve this please share it with me
 
 Discord: youknow3thn
