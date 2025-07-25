@@ -1,0 +1,8 @@
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\3UTB.pdb
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\3UTB.dll.config
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\PenImc_cor3.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\PresentationNative_cor3.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\vcruntime140_cor3.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\wpfgfx_cor3.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\win-x64\3UTB.exe

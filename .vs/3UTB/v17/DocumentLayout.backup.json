@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\3UTB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|e:\\repos\\3utb\\3utb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|E:\\repos\\3UTB\\3utb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|e:\\repos\\3utb\\3utb\\enterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\enterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|E:\\repos\\3UTB\\3utb\\enterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\enterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|E:\\repos\\3UTB\\3utb\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|e:\\repos\\3utb\\3utb\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559B789E-0D00-4181-8BFE-B3D746CCF2B1}|3UTB\\3UTB.csproj|solutionrelative:3utb\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "3UTB\\SplashScreen.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\3UTB\\3UTB\\SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:23:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnterKey.cs",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\EnterKey.cs",
+              "RelativeDocumentMoniker": "3UTB\\EnterKey.cs",
+              "ToolTip": "E:\\repos\\3UTB\\3UTB\\EnterKey.cs",
+              "RelativeToolTip": "3UTB\\EnterKey.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwDAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:09:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnterKey.cs [Design]",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\EnterKey.cs",
+              "RelativeDocumentMoniker": "3UTB\\EnterKey.cs",
+              "ToolTip": "E:\\repos\\3UTB\\3UTB\\EnterKey.cs [Design]",
+              "RelativeToolTip": "3UTB\\EnterKey.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:09:23.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "3UTB\\SplashScreen.cs",
+              "ToolTip": "E:\\repos\\3UTB\\3UTB\\SplashScreen.cs",
+              "RelativeToolTip": "3UTB\\SplashScreen.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwEUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:03:50.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\Main.cs",
+              "RelativeDocumentMoniker": "3UTB\\Main.cs",
+              "ToolTip": "E:\\repos\\3UTB\\3UTB\\Main.cs [Design]",
+              "RelativeToolTip": "3UTB\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:03:51.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\repos\\3UTB\\3UTB\\Main.cs",
+              "RelativeDocumentMoniker": "3UTB\\Main.cs",
+              "ToolTip": "E:\\repos\\3UTB\\3UTB\\Main.cs",
+              "RelativeToolTip": "3UTB\\Main.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:38:48.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.exe
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.dll
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.deps.json
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.runtimeconfig.json
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.dll.config
+C:\Users\ethan\source\repos\3UTB\3UTB\bin\Release\net8.0-windows\publish\3UTB.pdb

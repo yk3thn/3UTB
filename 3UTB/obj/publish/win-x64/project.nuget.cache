@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tvqmp+gMHECXDWjxcPQtBgFtcqp4HyngyekHt7OgoRv/NQAhDHnX0y/iK/UFgJF3oTYZX9QqfRnMJS4CILOKxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\source\\repos\\3UTB\\3UTB\\3UTB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
